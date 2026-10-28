@@ -16,7 +16,7 @@ Master of Data Science student at RMIT in Melbourne. I build machine learning an
 ### Toolbox
 
 - **Programming:** Python, SQL, Java, JavaScript
-- **Data and machine learning:** pandas, scikit-learn, PyTorch, TensorFlow, Stable-Baselines3, YOLOv8, OpenCV
+- **Data and machine learning:** pandas, scikit-learn, PyTorch, Stable-Baselines3, YOLOv8, OpenCV
 - **Software development:** React, Node.js, Django, REST APIs, Git, Docker, Linux
 - **Databases and cloud:** PostgreSQL, MySQL, AWS, Google Cloud
 
